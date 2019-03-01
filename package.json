@@ -1,0 +1,18 @@
+{
+  "name": "puppeteer-practice",
+  "version": "1.0.0",
+  "description": "a pupprter package of node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "huog",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.2.0"
+  },
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  },
+  "keywords": []
+}
